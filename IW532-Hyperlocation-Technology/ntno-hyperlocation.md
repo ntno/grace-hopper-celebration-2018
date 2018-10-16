@@ -32,8 +32,8 @@
 * idea: cell phone towers could broadcast correction for their location (as opposed to new GPS base stations)
 
 ## see also
-"An Introduction to GNSS" by NovAtel
-u-blox m services
-Piksi Multi SwiftNav
-Trimble GPS
-Oreo release of android
+* "An Introduction to GNSS" by NovAtel  
+* u-blox m services  
+* Piksi Multi SwiftNav  
+* Trimble GPS  
+* Oreo release of android  
