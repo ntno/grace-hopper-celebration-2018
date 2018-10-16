@@ -32,8 +32,8 @@
 
 
 ### see also
-kubernetes - helps you to manage running your containers
-vetti - javascript emulator of linux terminal
-alpine linux - very lightweight distrubution
-agave - TACC system for managing job queues/messages
-jetstream - cloud based super computer
+* kubernetes - helps you to manage running your containers  
+* vetti - javascript emulator of linux terminal  
+* alpine linux - very lightweight distrubution  
+* agave - TACC system for managing job queues/messages  
+* jetstream - cloud based super computer  
