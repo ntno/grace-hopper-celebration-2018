@@ -11,17 +11,18 @@
   * tropospheric
   * iosspheric (?)
 
-DGPS (Differental GPS) 
+#### DGPS (Differental GPS) 
 * +- 1 meter
 * 4 satellites minimum
 * rover must be 100-200 km from base station
 
-RTK (Real Time Kinematic) 
+#### RTK (Real Time Kinematic) 
 * +- 2 cm
 * 5 satellites minimum
 * rover must be 10-20 km from base station
 
-base station
+#### base station
 * located at a known longitude, lattitude, altitude  
 * broadcasts correction info
+
 
