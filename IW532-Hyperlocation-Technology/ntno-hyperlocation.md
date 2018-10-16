@@ -5,7 +5,7 @@
 **When** Friday, September 28, 2018 11:30 AM  
 **Who** Jean McManus  
 
-### problem
+## problem
 * traditional GPS is not accurate enough for use cases like autonomous vehicles - even a meter in error is too much
 * error is introduced through atmospheric conditions which can change by location, time of day, weather
   * tropospheric
@@ -31,3 +31,9 @@
 * number of IoT devices is on the rise so any solution will need to scale
 * idea: cell phone towers could broadcast correction for their location (as opposed to new GPS base stations)
 
+## see also
+"An Introduction to GNSS" by NovAtel
+u-blox m services
+Piksi Multi SwiftNav
+Trimble GPS
+Oreo release of android
