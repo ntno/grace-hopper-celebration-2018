@@ -6,7 +6,7 @@
 **Who** TACC - Texas Advanced Computing Center  
 
 
-#### goals
+### goals
 * isolate applications
 * fix the 'it works on my machine why doesn't it work on yours' problem
 
@@ -23,3 +23,12 @@
 * no overhead of having a Guest OS for each application (as is with VMs)
 * easy to install/run an application
   * no need to figure out installing correct dependencies because they are included in the container
+
+### key points
+
+### see also
+kubernetes - helps you to manage running your containers
+vetti - javascript emulator of linux terminal
+alpine linux - very lightweight distrubution
+agave - TACC system for managing job queues/messages
+jetstream - cloud based super computer
