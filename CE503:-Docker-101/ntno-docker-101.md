@@ -24,7 +24,12 @@
 * easy to install/run an application
   * no need to figure out installing correct dependencies because they are included in the container
 
-### key points
+
+#### demo
+* runx the unix 'date' command 
+  * `docker container run alpine date`  
+* you can also spin up a container with an interactive linux shell, then exit the container, then come back to the container by "attaching"
+
 
 ### see also
 kubernetes - helps you to manage running your containers
