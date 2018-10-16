@@ -9,7 +9,7 @@
 * traditional GPS is not accurate enough for use cases like autonomous vehicles - even a meter in error is too much
 * error is introduced through atmospheric conditions which can change by location, time of day, weather
   * tropospheric
-  * iosspheric (?)
+  * ionospheric
 
 #### DGPS (Differental GPS) 
 * +- 1 meter
